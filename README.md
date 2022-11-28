@@ -1,5 +1,5 @@
 - 🤘 Hi, I’m @IronByron
-- 🐐 I’m interested in **mëtäl**, *scripting*, *macOS/linux*, *automation*
+- 🐐 I’m interested in *metal*, *scripting*, *macOS/linux*, *automation*
 - 📚 I’m currently learning *jenkins*, *docker*, *aws*
 - 🌞 I’m looking to collaborate on ... 🌮 & 🍩
 - 🫵 How to reach me ... 🤷‍♂️
