@@ -1,8 +1,4 @@
-- 🤘 Hi, I’m @IronByron
-- 🐐 I’m interested in *metal*, *scripting*, *macOS/linux*, *automation*
-- 📚 I’m currently learning *jenkins*, *docker*, *aws*
-- 🌞 I’m looking to collaborate on ... 🌮 & 🍩
-- 🫵 How to reach me ... 🤷‍♂️
+- 🐐 
 
 <!---
 IronByron/IronByron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
